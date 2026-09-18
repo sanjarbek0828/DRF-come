@@ -23,8 +23,8 @@ Ushbu loyiha Django va Django REST Framework (DRF) asosida yaratilgan.
 
 ### 1. Loyihani yuklab olish va papkaga kirish:
 ```bash
-git clone <repo_url>
-cd <repo_papka>
+git clone https://github.com/sanjarbek0828/DRF-come.git
+cd DRF-come
 ```
 
 ### 2. Virtual muhitni yaratish va faollashtirish:
